@@ -1,3 +1,17 @@
+> \{^_^}/ hi!
+
+  Loading db.json
+  Done
+
+  Resources
+  http://localhost:3000/dishes
+  http://localhost:3000/promotions
+  http://localhost:3000/leaders
+  http://localhost:3000/feedback
+
+  Home
+  http://localhost:3000
+
 # Deploy `json-server` to `{{ free hosting site }}`
 
 > Instructions how to deploy the full fake REST API [json-server](https://github.com/typicode/json-server) to various free hosting sites. Should only be used in development purpose but can act as a simpler database for smaller applications.
